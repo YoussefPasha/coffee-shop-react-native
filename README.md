@@ -15,7 +15,6 @@
      <div>
         <img src="https://github.com/YoussefPasha/coffee-shop-react-native/blob/main/IMAGES/7.png" width = "30%" >
         <img src="https://github.com/YoussefPasha/coffee-shop-react-native/blob/main/IMAGES/8.png" width = "30%" >
-        <img src="https://github.com/YoussefPasha/coffee-shop-react-native/blob/main/IMAGES/2.png" width = "30%" >
-         
+        <img src="https://github.com/YoussefPasha/coffee-shop-react-native/blob/main/IMAGES/2.png" width = "30%" >         
     </div>
 </div>
